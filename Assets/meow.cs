@@ -8,6 +8,7 @@ public class meow : MonoBehaviour
     void Start()
     {
         //mewoemwoemewoemwoe
+        //кис кис кис кис
     }
 
     // Update is called once per frame
